@@ -1,0 +1,10 @@
+{
+    "1": {
+        "temperature": 22.5,
+        "air_quality": 38
+    },
+    "2": {
+        "temperature": 18.2,
+        "air_quality": 55
+    }
+}
